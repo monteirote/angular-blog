@@ -1,0 +1,32 @@
+header {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: linear-gradient(to bottom, #444343 0%, #626262 50%,#a0a0a0 100%);
+  border-bottom: 2px solid black;
+}
+
+header hr {
+  border-color: black;
+  margin: 0 .9rem;
+}
+
+header h1 {
+  font-size: 3.5rem;
+  display: flex;
+  justify-content: center;
+  color: #000;
+}
+
+header div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  font-size: 1.1rem;
+  padding: .5rem 0;
+}
+
+header div button {
+  border: none;
+  background-color: #b9b9b9;
+}
