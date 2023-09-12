@@ -2,7 +2,7 @@ header {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background: linear-gradient(to bottom, #444343 0%, #626262 50%,#a0a0a0 100%);
+  background: linear-gradient(to bottom, #9c9c9c 0%, #c0c0c0 50%,#a0a0a0 100%);
   border-bottom: 2px solid black;
 }
 

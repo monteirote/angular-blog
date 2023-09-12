@@ -1,0 +1,18 @@
+section {
+  display: flex;
+  flex-direction: column;
+}
+
+app-main-news {
+  padding: .5rem 1.5rem;
+}
+
+section hr {
+  margin-top: 2rem;
+  border: .01rem solid gray;
+  margin: .9rem .8rem;
+}
+
+h2 {
+  margin: .8rem 0 0 1.5rem;
+}
