@@ -1,0 +1,21 @@
+content {
+  display: flex;
+  border: 1px solid black;
+  flex-direction: column;
+  width: 11rem;
+  height: 12.5rem;
+}
+
+img {
+  height: 7rem;
+}
+
+h3 {
+  padding-left: .2rem;
+  font-size: .9rem;
+}
+
+p {
+  padding: .2rem;
+  font-size: .7rem;
+}
